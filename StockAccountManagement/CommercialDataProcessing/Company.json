@@ -1,0 +1,17 @@
+[
+  {
+    "StockName": "Reliance",
+    "Shares": 635.0,
+    "SharePrice": 2000.0
+  },
+  {
+    "StockName": "Cococola",
+    "Shares": 370.0,
+    "SharePrice": 3000.0
+  },
+  {
+    "StockName": "Flipkart",
+    "Shares": 551.0,
+    "SharePrice": 1500.0
+  }
+]
